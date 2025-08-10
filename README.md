@@ -65,3 +65,5 @@ streamlit run app.py
 ├── requirements.txt
 └── .gitignore
 
+##📸 Demos
+For example blog outputs, check the blogs folder.
