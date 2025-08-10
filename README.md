@@ -1,6 +1,6 @@
 <div align="center">
 
-# AutoBlog: AI Blog Generator
+# AI Blog Generator
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32.0-red?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -64,6 +64,6 @@ streamlit run app.py
 ├── utils.py
 ├── requirements.txt
 └── .gitignore
-
+```
 ##📸 Demos
 For example blog outputs, check the blogs folder.
