@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore any PDFs, Excel, videos, shortcuts
+*.pdf
+*.xlsx
+*.lnk
+*.mp4
